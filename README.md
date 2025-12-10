@@ -1,5 +1,8 @@
+
 <div align="center">
-  <img src="YOUR-LOGO-LINK-HERE" alt="USN A&P Cybersecurity UWF Logo" width="200"/>
+  <img src="5c7d0140-ee5d-4ba3-ac05-8cddb4aac498.png" alt="Jesse Goodyear Cybersecurity Banner" width="100%">
+</div>
+
 
 # 👋 Hi, I'm Jesse Goodyear
 ### U.S. Navy Veteran • A&P Mechanic (Former) • Cybersecurity Student • Future Security Analyst
