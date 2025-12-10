@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="5c7d0140-ee5d-4ba3-ac05-8cddb4aac498.png" alt="Jesse Goodyear Cybersecurity Banner" width="100%">
+  <img src="Your Banner Here" alt="Jesse Goodyear Cybersecurity Banner" width="100%">
 </div>
 
 
