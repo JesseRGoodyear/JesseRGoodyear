@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[Your Banner Here" alt="Jesse Goodyear Cybersecurity Banner](https://github.com/JesseRGoodyear/JesseRGoodyear/blob/main/ChatBanner.png?raw=true)" width="100%">
+  <img src="https://github.com/JesseRGoodyear/JesseRGoodyear/blob/main/ChatBanner.png?raw=true)" width="100%">
 </div>
 
 
