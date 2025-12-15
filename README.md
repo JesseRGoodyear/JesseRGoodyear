@@ -3,8 +3,7 @@
   <img src="https://github.com/JesseRGoodyear/JesseRGoodyear/blob/main/ChatBanner.png?raw=true)" width="100%">
 </div>
 
-
-# 👋 Hi, I'm Jesse Goodyear
+Jesse Goodyear
 ### U.S. Navy Veteran • A&P Mechanic • Cybersecurity Student • Future Security Analyst
 **B.S. Cybersecurity, University of West Florida — Expected May 2026**
 
