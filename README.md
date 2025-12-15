@@ -5,7 +5,7 @@
 
 
 # 👋 Hi, I'm Jesse Goodyear
-### U.S. Navy Veteran • A&P Mechanic (Former) • Cybersecurity Student • Future Security Analyst
+### U.S. Navy Veteran • A&P Mechanic • Cybersecurity Student • Future Security Analyst
 **B.S. Cybersecurity, University of West Florida — Expected May 2026**
 
 </div>
@@ -61,7 +61,7 @@ I’m passionate about:
 - 🧠 **Machine Learning Flight Delay Predictor (Data Mining Project)**  
 - 🛡️ **Cybersecurity Labs (WebGoat, Forensics, OSINT)**  
 
-*(We will upload these together in separate repos.)*
+
 
 ---
 
